@@ -84,20 +84,20 @@ body {
     opacity: 1;
 }
 .social_icon .menu:hover{
-    content: url(/profile_card_icons/menu.apng);
-    transform: scale(1.2);
+    content: url(profile_card_icons/menu.apng);
+    transform: scale(1.1);
 }
 .social_icon .github:hover{
-    content: url(/profile_card_icons/github.apng);
-    transform: scale(1.2);
+    content: url(profile_card_icons/github.apng);
+    transform: scale(1.1);
 }
 .social_icon .linkedin:hover{
-    content: url(/profile_card_icons/linkedin.apng);
-    transform: scale(1.2);
+    content: url(profile_card_icons/linkedin.apng);
+    transform: scale(1.1);
 }
 .social_icon .twitter:hover{
-    content: url(/profile_card_icons/X.apng);
-    transform: scale(1.2);
+    content: url(profile_card_icons/X.apng);
+    transform: scale(1.1);
 }
 /* ==============IMG SIDE END============ */
 
