@@ -70,7 +70,7 @@ This project is **open-source** and available under the **MIT License**.
 
 ## 🧑🏻‍💻 Credits
 
-Designed and Developed by @Muthukumaran-Official
+Designed and Developed by [Muthukumaran-Official](https://github.com/Muthukumaran-Official)
 
 ---
 Feel free to contribute or drop suggestions! 🚀
